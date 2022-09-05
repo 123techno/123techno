@@ -1,4 +1,4 @@
-![logo](20210109_190311.jpg)
+![logo](20220905_141616.jpg)
 <h1 align="center">Hi 👋, I'm Haresh Panigrahi</h1>
 
 <h3 align="center">A passionate Web developer from India</h3>
